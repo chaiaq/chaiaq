@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+✨ Exploring the world of technology and learning programming!
+<br>
+🔭 Student of the #ElasNaTech program, an initiative of the JA Brasil and CCR group.
+<br>
+
+
+<br><br>
+📫 chaiane.ey@gmail.com
+<br>
+⚡ https://www.linkedin.com/in/chaianeaq/
+
 <!--
 **nidril/nidril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
