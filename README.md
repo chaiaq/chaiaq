@@ -7,7 +7,7 @@
 
 
 <br><br>
-📫 chaiane.ey@gmail.com
+## 📫 chaiane.ey@gmail.com
 <br>
 ⚡ https://www.linkedin.com/in/chaianeaq/
 
