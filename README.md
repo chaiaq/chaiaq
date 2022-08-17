@@ -1,4 +1,5 @@
-### Hi there ☺️
+## Hi there ☺️
+### I'm Chaiane Quadrado!
 
 🚀 Exploring the world of technology and learning programming!
 <br>
