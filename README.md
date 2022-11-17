@@ -3,7 +3,7 @@
 
 🚀 Exploring the world of technology and learning programming!
 <br>
-📔 Student of the <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
+📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
 <br>
 
 ## 📭 chaiane.ey@gmail.com
