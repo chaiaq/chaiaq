@@ -5,6 +5,7 @@
 <br>
 📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
 <br>
+📔 Oracle Next Education - Turma 4
 
 ## 📭 chaiane.ey@gmail.com
 
