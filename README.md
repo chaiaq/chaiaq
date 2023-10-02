@@ -1,7 +1,7 @@
 ## Hi there ☺️
 ### I'm Chaiane Quadrado!
 
-🚀 Exploring the world of technology and learning programming!
+🚀 Exploring the world of technology!
 <br>
 📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
 <br>
