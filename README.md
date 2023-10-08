@@ -19,3 +19,5 @@
   <a href="https://github.com/nidril">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaiaq&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+
+    ![octocat-1696771510333](https://github.com/chaiaq/chaiaq/assets/101228665/3cdade07-3505-4edd-974d-98bd768cb63e)
