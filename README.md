@@ -1,21 +1,31 @@
-## Hi there ☺️
-### I'm Chaiane Quadrado!
+# Hello World!🌐
+## I'm Chaiane Quadrado!
 
-🚀 Exploring the world of technology!
-<br>
-📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
-<br>
-📔 Oracle Next Education - Turma 4
-<br>
-📔 Cloud Girls - Turma 10
+I am currently studying Systems Analysis and Development and starting my journey in the world of technology. I enjoy learning new things every day, exploring new technologies, and discovering new programming languages 🚀
 
-<img width=300px src="https://github.com/chaiaq/chaiaq/assets/101228665/3cdade07-3505-4edd-974d-98bd768cb63e.jpg">
+<img align="right" width=300px src="https://github.com/chaiaq/chaiaq/assets/101228665/3cdade07-3505-4edd-974d-98bd768cb63e.jpg">
 
-## 📭 chaiane.ey@gmail.com
+### Study programs:
+- 📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
+- 📔 Oracle Next Education - Turma 4
+- 📔 Cloud Girls - Turma 10
 
-## <img width=20px src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"> <a href="https://www.linkedin.com/in/chaianeaq/" target="_blank"><b>@chaianeaq</b></a>
 
-<hr>
+### Contact:
+
+<div>
+<a href="https://www.linkedin.com/in/chaianeaq/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:chaiane.ey@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/chai.aq/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+</div>
+
+
+## Learning
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40"/>
+
+
+
 
 <div align="center">
   <a href="https://github.com/nidril">
