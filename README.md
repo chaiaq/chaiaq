@@ -1,28 +1,16 @@
-# Hello World!🌐
-## I'm Chaiane Quadrado!
-
-I am currently studying Systems Analysis and Development and starting my journey in the world of technology. I enjoy learning new things every day, exploring new technologies, and discovering new programming languages 🚀
+## 👋 Hi there, I'm Chaiane Quadrado!
 
 <img align="right" width=300px src="https://github.com/chaiaq/chaiaq/assets/101228665/3cdade07-3505-4edd-974d-98bd768cb63e.jpg">
 
-### Study programs:
-- 📔 First class of <b>#ElasNaTech</b> program, an initiative of the JA Brasil and CCR group.
-- 📔 Oracle Next Education - Turma 4
-- 📔 Cloud Girls - Turma 10
+💡 Passionate about continuous learning, technology, and creating a positive impact through innovation.
 
+🎓 I'm currently studying **Systems Analysis and Development**, always looking for new challenges and opportunities to grow. I've participated in programs like **ElasNaTech**, **Cloud Girls**, and **Ladies in Cyber**, which have empowered my journey in tech with community, support, and representation.
 
-### Contact:
+💻 I'm also a **technical mentor at Cloud Girls**, where I support other women who are transitioning into or beginning their careers in technology.
 
-<div>
-<a href="https://www.linkedin.com/in/chaianeaq/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:chaiane.ey@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/chai.aq/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-</div>
+🚀 I'm interested in systems development, digital games, data, virtualization, and anything that allows me to explore and learn something new every day.
 
-
-## Learning
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40"/>
+📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaianeaq/)
 
 
 
